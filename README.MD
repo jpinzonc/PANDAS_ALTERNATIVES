@@ -10,8 +10,6 @@
         
         macOS:  Sonoma 14.5 Beta (23F5049f)
 
-    Python 3.12.2
-
 ____
 
 - Data source: 
@@ -76,10 +74,8 @@ ____
 
     https://pypi.org/project/vaex/
 
-    It appears that at this point VAEX can not be installed in 3.12.2 on MAC
-
-    https://github.com/vaexio/vaex/issues/2397
-
+    Currently (20240429) Vaex is not supported for python 3.12 (https://github.com/vaexio/vaex/issues/2397)
+    
 - Installation
 
     !pip install vaex
