@@ -57,7 +57,7 @@ ____
 
     !pip install modin
 
-!   pip install "dask[distributed]" --upgrade
+    !pip install "dask[distributed]" --upgrade
 
 - Set up (with dask)
 
