@@ -1,5 +1,11 @@
 # PANDAS ALTERNATIVES IN PYTHON
 
+Run several processes with differnet libraries. The time it takes is estimated over several runs of the same code. 
+
+Here is another interactive site comparing pandas and polars 
+    
+    https://dash-polars-pandas-docker.onrender.com/speed-comparison
+
 - System: 
 
     Mackbook Pro 15 Inch, 2019 
@@ -16,7 +22,9 @@ ____
 
     Western Pennsylvania Regional Data Center
 
-    Cumulative Crash Data -->  https://data.wprdc.org/dataset/allegheny-county-crash-data/resource/2c13021f-74a9-4289-a1e5-fe0472c89881
+    Cumulative Crash Data:
+    
+    https://data.wprdc.org/dataset/allegheny-county-crash-data/resource/2c13021f-74a9-4289-a1e5-fe0472c89881
 
     Given the size of the original dataset is larger than normal limit in github, this command can be run from the notebook to download the data and generate files of different sizes: 
 
